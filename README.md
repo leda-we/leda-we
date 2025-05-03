@@ -10,7 +10,7 @@ I think I will be a developer in the field of machine learning or full-stack
 ```
 
 ```
-[загрузка (6)](https://github.com/user-attachments/assets/1675ef73-04e1-4d36-9d86-9c429587b643)
+![загрузка (6)](https://github.com/user-attachments/assets/1675ef73-04e1-4d36-9d86-9c429587b643)
 ## 🛠 Skills
 Языки программирования, разметки, стилей\
 Programming languages, markup, styles\
