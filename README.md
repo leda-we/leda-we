@@ -6,7 +6,7 @@ This is my profile on github
 ##  About Me
 I think I will be a developer in the field of machine learning or full-stack
 
-# Hi, i'm ledawe
+# Hi, i'm Stanislav
 ```
 
 ```
